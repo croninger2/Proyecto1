@@ -1,0 +1,94 @@
+body {
+  /* border:3px solid red; */
+  color:black;
+  margin:0;
+  *display: inline-block;*
+
+ }
+
+ .contenedor{
+    width: 80%%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+ }
+
+header {
+  /* border:3px solid green; */
+  width: 80%%;
+  max-width: 1000px;
+  margin: auto;
+  font-size:20px;
+  background:blue;
+  /*display: inline-block;*/
+
+}
+
+ h1 {
+  /* border:3px solid red; */
+  font-size: 60px;
+ }
+
+a {
+  /* border:3px solid green; */
+  text-decoration:none;
+  }
+
+
+
+
+.main {
+  /* border:5px solid yellow; */
+  background: blue;
+}
+
+.wrapper {
+  /* border:3px solid purple; */
+  width: 100%;
+  margin:auto;
+}
+
+.main-content {
+  width: 100%;
+  padding:20px;
+}
+
+.hero-one{
+  width: 100%%;
+  max-width: 100%;
+  
+  background-color: black;
+  background-image:url('../images/hero-one.jpg') ;
+  background-repeat: no-repeat;
+  background-position:center;
+ /* padding: 5; */
+  height:100px;
+ }
+
+ .browser-two{
+  /* border:40px solid purple; */
+  background-image: linear-gradient(to top,red, blue,transparent);
+  border-bottom:1px solid blue;
+
+
+ }
+
+ .title-one{
+  width: 100%;
+  color:red;
+  font: size 30px;
+}
+
+p:hover{
+  color:rgba(255,0,0,.5);
+}
+.stranger{
+  background:black;
+  width: 80%%;
+  max-width: 1000px;
+  margin: auto;
+ 
+  /* margin: 10px; */
+}
+
+
